@@ -4,7 +4,7 @@
 
   <groupId>com.wso2.jenkins</groupId>
   <artifactId>mainProject</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-SNAPSHOTS</version>
   <packaging>jar</packaging>
 
   <name>mainProject</name>
